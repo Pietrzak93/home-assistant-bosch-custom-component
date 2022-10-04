@@ -1,5 +1,5 @@
 {
-  "domain": "bosch-2",
+  "domain": "bosch",
   "name": "Bosch thermostat",
   "documentation": "https://github.com/bosch-thermostat/home-assistant-bosch-custom-component",
   "issue_tracker": "https://github.com/bosch-thermostat/home-assistant-bosch-custom-component/issues",
